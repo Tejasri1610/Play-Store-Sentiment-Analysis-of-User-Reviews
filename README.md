@@ -1,1 +1,5 @@
-# Play-Store-Sentiment-Analysis-of-User-Reviews
+The Play Store is doing a sentiment analysis of its user reviews
+
+It uses Natural Language Processing and machine learning to classify user sentiments as positive, negative, or neutral. The dataset contains user feedback ratings and review text, and preprocessing like text cleaning and tokenization is performed. Cabinet models include Naïve Bayes, SVM, and deep learning, providing visualizations to track certain trends. Primarily, the project attempts to make it easier for app developers to gauge what users think about their products and enhance customer satisfaction.
+
+Sentiment classification and data analysis are done using Python, Pandas, NumPy, NLTK, and Scikit-Learn. Exploratory data analysis reveals patterns of ratings and user opinions that present lessons of engaging with the applications for further improvements. The resultant reports with interactive charts, bar plots, and word clouds offer actionable insights to developers to enhance app performance and quality of experience. 
